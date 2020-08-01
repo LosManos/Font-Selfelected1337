@@ -20,3 +20,6 @@ Zero looks different from lower case L and, to make it even clearer, has a small
 
 ## OTF
 Grab the lates release [here](https://github.com/LosManos/Font-Selfelected1337/releases).
+Download the `otf` file, open it (should default to (Windows) default font viewer), and choose to install. It is a font, nothing else.
+
+Due to a bug? in Visual Studio 2019?; Visual studio cannot load a newly installed font but has to be restared first.
