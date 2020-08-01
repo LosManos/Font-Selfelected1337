@@ -17,3 +17,6 @@ Alas they look different from each other.
 
 Digits all have the same width.  
 Zero looks different from lower case L and, to make it even clearer, has a small dot in it.
+
+## OTF
+Grab the lates release [here](https://github.com/LosManos/Font-Selfelected1337/releases).
